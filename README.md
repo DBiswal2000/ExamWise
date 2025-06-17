@@ -43,11 +43,3 @@ Built with:
 | ![Quiz](./public/screens/quiz.png) | ![Result](./public/screens/result.png) | ![Dashboard](./public/screens/dashboard.png) |
 
 ---
-
-## 🛠️ Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/examwise.git
-cd examwise
