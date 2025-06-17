@@ -42,4 +42,3 @@ Built with:
 |----------------------------------|------------------------------------|----------------------------------|
 | ![Quiz](./public/screens/quiz.png) | ![Result](./public/screens/result.png) | ![Dashboard](./public/screens/dashboard.png) |
 
----
