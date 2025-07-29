@@ -40,5 +40,5 @@ Built with:
 
 | Quiz Page                        | Result Page                        | Dashboard                        |
 |----------------------------------|------------------------------------|----------------------------------|
-| ![Quiz](./public/quiz.png) | ![Result](./public/screens/result.png) | ![Dashboard](./public/screens/dashboard.png) |
+| ![Quiz](./public/quiz.png) | ![Result](./public/result.png) | ![Dashboard](./public/dashboard.png) |
 
